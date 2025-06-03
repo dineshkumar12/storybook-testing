@@ -1,0 +1,7 @@
+.storybook-form{
+    margin: 1rem
+}
+.storybook-form-label{
+    color: red;
+    border: 1px solid black;
+}
